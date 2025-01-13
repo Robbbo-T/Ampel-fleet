@@ -25,3 +25,8 @@ Here's a recap of all the tasks you've accomplished in your repository:
 - [Take another GitHub Skills course](https://github.com/skills).
 - [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
 - To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
+
+<!--
+  <<< Author notes: Purpose of the step >>>
+  This step is designed to provide a summary of the course, congratulate the user on completing it, and offer suggestions for next steps.
+-->
