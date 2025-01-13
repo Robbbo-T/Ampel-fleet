@@ -19,3 +19,8 @@ You can customize your homepage by adding content to either an `index.md` file o
 1. (optional) You can also modify `title:` or just ignore it for now. We'll discuss it in the next step.
 1. Commit your changes to the `my-pages` branch.
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+
+<!--
+  <<< Author notes: Purpose of the step >>>
+  This step is designed to help users customize their GitHub Pages homepage by adding personalized content to the `index.md` file.
+-->

@@ -38,6 +38,47 @@ The first step is to enable GitHub Pages on this [repository](https://docs.githu
    > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
    > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
 
+## Project Description
+
+This project is a guide to creating a site or blog from your GitHub repositories using GitHub Pages. It provides step-by-step instructions on how to enable GitHub Pages, configure your site, customize your homepage, create a blog post, and merge your pull request.
+
+## Purpose
+
+The purpose of this project is to help users create a personal or project website using GitHub Pages and Jekyll. By following the steps in this guide, users will learn how to set up and customize their site, as well as how to create and manage blog posts.
+
+## How to Use
+
+To use this guide, follow the steps outlined in each section. Each step provides detailed instructions and activities to help you complete the process. You can open a new browser tab and work on the steps in your second tab while you read the instructions in this tab.
+
+## Setup Instructions
+
+To set up and run the project locally, follow these steps:
+
+1. Clone the repository to your local machine.
+2. Navigate to the project directory.
+3. Install the required dependencies.
+4. Run the project locally using a local server or Jekyll.
+
+## Contributing
+
+We welcome contributions to this project! To contribute, please follow the guidelines in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+
+## License
+
+This project is licensed under the MIT License. For more information, see the [LICENSE](LICENSE) file.
+
+## Changelog
+
+For a detailed list of changes made to this project, see the [CHANGELOG.md](CHANGELOG.md) file.
+
+## Reporting Issues and Requesting Features
+
+If you encounter any issues or have feature requests, please report them by creating an issue in the repository.
+
+## Continuous Integration
+
+This project uses continuous integration to automatically run tests on each push or pull request. For more information, see the relevant workflow files in the [.github/workflows](.github/workflows) directory.
+
 <footer>
 
 <!--
